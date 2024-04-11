@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fala+Deeev!+👋;+Como+vai+?;Seja+bem+vindo+!!!;" />
 </h1>
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaDziubat&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=TheSartori&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSartori&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
