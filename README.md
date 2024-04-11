@@ -4,7 +4,7 @@
 </h1>
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaDziubat&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaDziubat&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSartori&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -68,13 +68,13 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: goncalvesscamilla07@gmail.com">
+    <a href = "mailto: sartori_cf@hotmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/camila-dziubat-805777229/">
+    <a href = "https://www.linkedin.com/in/tiago-sartori-dev/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://instagram.com/camila.dziubat?igshid=MmVlMjlkMTBhMg==/">
+    <a href = "https://www.instagram.com/the.sartori/">
       <img width="25" src="instagram.png">
     </a>
 </div>
